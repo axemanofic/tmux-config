@@ -1,0 +1,28 @@
+# default theme
+tmux_conf_theme_colour_1="#1c2128"    # window bg
+tmux_conf_theme_colour_2="#2d333b"    # last pane bg
+
+# Pane
+tmux_conf_theme_colour_3="#539bf5"    # inactive pane fg
+tmux_conf_theme_colour_4="#539bf5"    # last pane fg 
+
+# status line
+tmux_conf_theme_colour_5="#adbac7"    # panel bg
+
+# status left fg
+tmux_conf_theme_colour_6="#adbac7"    # dark gray
+tmux_conf_theme_colour_7="#adbac7"    # white
+tmux_conf_theme_colour_8="#adbac7"    # dark gray
+# status left bg
+tmux_conf_theme_colour_9="#2d333b"    # yellow
+tmux_conf_theme_colour_10="#2d333b"   # pink / dark gray
+tmux_conf_theme_colour_11="#2d333b"   # green
+
+# status right fg
+tmux_conf_theme_colour_12="#adbac7"   # light gray
+tmux_conf_theme_colour_13="#e5534b"   # white
+tmux_conf_theme_colour_14="#539bf5"   # dark gray
+# status right bg
+tmux_conf_theme_colour_15="#1c2128"   # dark gray
+tmux_conf_theme_colour_16="#1c2128"   # red
+tmux_conf_theme_colour_17="#1c2128"   # white
